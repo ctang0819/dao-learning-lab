@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Dao Learning"
+  short_description: "Derive transferable principles from business workflows."
+  default_prompt: "Use $business-dao-learning to study a business workflow from concrete implementation to transferable first principles."
