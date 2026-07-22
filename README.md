@@ -14,3 +14,4 @@
 - [epoll 为什么能支持高并发](knowledge-trees/networking/epoll-high-concurrency.md)
 - [事件驱动索引与增量就绪](dao/event-driven-indexing.md)
 - [依赖驱动任务调度器](projects/dependency-driven-scheduler/README.md)
+- [HIS：医嘱事件可靠推进](business-scenarios/his-order-eventing/README.md)
